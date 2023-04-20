@@ -2,6 +2,8 @@
 
 [![](https://jitpack.io/v/JefferyBoy/android-aspectj-gradle-plugin.svg)](https://jitpack.io/#JefferyBoy/android-aspectj-gradle-plugin)
 
+此项目停止维护，请移步到新项目 [wow-gradle-plugins](https://github.com/JefferyBoy/wow-gradle-plugins)
+
 在安卓中使用aspectj。全部功能都是aspectj官方的，这个插件仅仅是做aspectj和android gradle plugin的连接桥梁作用。
 在安卓项目编译完成后执行aspectj进行class字节码修改。
 
